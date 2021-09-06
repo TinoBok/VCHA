@@ -1,2 +1,2 @@
-# VCHA
-Voice Controlled Home Automation
+# Project Voice Controlled Home Automation
+## Requirements
